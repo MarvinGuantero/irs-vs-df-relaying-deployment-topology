@@ -15,8 +15,8 @@ De La Salle University
 Manila 1004, Philippines
 
 **Corresponding Author**
-- Aaron Don M. Africa
-- Email: aaron.africa@dlsu.edu.ph
+- Marvin A. Guantero
+- Email: marvin_guantero@dlsu.edu.ph
 
 ---
 
@@ -52,32 +52,6 @@ The main findings of this work include:
 
 - **Practical deployment guidelines**
   - Node placement should be treated as a first-order design variable when comparing IRS-assisted and relay-assisted wireless communication systems.
-
----
-
-## Repository Contents
-
-```
-.
-├── MATLAB/
-│   ├── Simulation scripts
-│   ├── Utility functions
-│   └── Channel generation
-│
-├── Figures/
-│   ├── Simulation results
-│   └── Paper figures
-│
-├── Data/
-│   └── Simulation datasets
-│
-├── Paper/
-│   └── Manuscript
-│
-└── README.md
-```
-
-*(Directory names may vary depending on the uploaded files.)*
 
 ---
 
@@ -123,7 +97,6 @@ If you use this repository in your research, please cite:
 }
 ```
 
-*(Please update the citation once the paper is accepted and published.)*
 
 ---
 
