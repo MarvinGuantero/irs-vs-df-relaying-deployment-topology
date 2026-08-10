@@ -8,7 +8,7 @@ This repository contains the simulation codes, figures, and supporting materials
 
 **Authors**
 - Marvin A. Guantero
-- Aaron Don M. Africa*
+- Aaron Don M. Africa
 
 Department of Electronics, Computer, and Electrical Engineering  
 De La Salle University  
